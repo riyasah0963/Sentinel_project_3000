@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3)",
+      "Bash(python3 -c ' *)",
+      "Bash(unzip -p \"Sentinel Report Final \\(1\\).docx\" word/document.xml)",
+      "Bash(pip install *)",
+      "Bash(python -m pytest tests/ --cov=core --cov-report=term-missing)"
+    ]
+  }
+}

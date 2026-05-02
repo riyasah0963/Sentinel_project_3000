@@ -1,0 +1,29 @@
+{
+  "added": [
+    "malware.txt"
+  ],
+  "base_path": "C:\\Users\\Asus\\Downloads\\sentinel complete\\sentinel_complete\\test_project",
+  "baseline_created_at": "2026-04-22T19:48:57.831992+00:00",
+  "baseline_file": "C:\\Users\\Asus\\Downloads\\sentinel complete\\sentinel_complete\\baseline.json",
+  "checked_at": "2026-04-22T19:52:20.831862+00:00",
+  "deleted": [
+    "README.md"
+  ],
+  "elapsed_seconds": 0.001,
+  "modified": [
+    {
+      "baseline_sha256": "488a99ee53ceda0f854c9c1b911a650b7186f7a79ff44d5cfe317ef7a6986a8a",
+      "current_sha256": "99e195f5b8be35190245e9424c0d8fe903d30fd3ce174f4c49a9fac9997c15a8",
+      "path": "config.py"
+    }
+  ],
+  "sentinel_version": "1.0.0",
+  "skipped": [],
+  "summary": {
+    "added": 1,
+    "deleted": 1,
+    "modified": 1,
+    "skipped": 0,
+    "unchanged": 1
+  }
+}

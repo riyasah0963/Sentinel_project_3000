@@ -1,0 +1,23 @@
+{
+  "base_path": "C:\\Users\\Asus\\Downloads\\sentinel complete\\sentinel_complete\\test_project",
+  "created_at": "2026-04-22T19:48:57.831992+00:00",
+  "elapsed_seconds": 0.001,
+  "files": {
+    "README.md": {
+      "sha256": "b98624a2187deacc89fea687aaefc6224a9ab1db380d3f6519ff3716b7697f2c",
+      "size_bytes": 15
+    },
+    "config.py": {
+      "sha256": "488a99ee53ceda0f854c9c1b911a650b7186f7a79ff44d5cfe317ef7a6986a8a",
+      "size_bytes": 16
+    },
+    "main.py": {
+      "sha256": "db418c3571f094e25a42f6b852cd583c6029406778bee4191ec7fb308c58e939",
+      "size_bytes": 17
+    }
+  },
+  "schema_version": 1,
+  "sentinel_version": "1.0.0",
+  "skipped_files": [],
+  "total_files": 3
+}
